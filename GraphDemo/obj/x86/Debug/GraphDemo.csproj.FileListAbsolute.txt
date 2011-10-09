@@ -24,3 +24,12 @@ C:\Users\Sol\Documents\Visual Studio 2010\Projects\GraphDemo\GraphDemo\obj\x86\D
 C:\Users\Sol\Documents\Visual Studio 2010\Projects\GraphDemo\GraphDemo\obj\x86\Debug\GraphDemo.Properties.Resources.resources
 C:\Users\Sol\Documents\Visual Studio 2010\Projects\GraphDemo\GraphDemo\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\Sol\Documents\Visual Studio 2010\Projects\GraphDemo\GraphDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sol\GraphDemo2\GraphDemo\obj\x86\Debug\GraphDemo.exe
+C:\Users\Sol\GraphDemo2\GraphDemo\obj\x86\Debug\GraphDemo.pdb
+C:\Users\Sol\GraphDemo2\GraphDemo\bin\Debug\GraphDemo.exe
+C:\Users\Sol\GraphDemo2\GraphDemo\bin\Debug\GraphDemo.pdb
+C:\Users\Sol\GraphDemo2\GraphDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sol\GraphDemo2\GraphDemo\obj\x86\Debug\GraphDemo.GraphDemo.resources
+C:\Users\Sol\GraphDemo2\GraphDemo\obj\x86\Debug\GraphDemo.Properties.Resources.resources
+C:\Users\Sol\GraphDemo2\GraphDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sol\GraphDemo2\GraphDemo\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -31,6 +31,7 @@ namespace GraphDemo
             float[] ext = get_Extrema(data, nLines, nColumns, indX);
             chart.ChartAreas[0].AxisX.MajorGrid.Interval = (ext[1] - ext[0]) / x_grids;
             chart.ChartAreas[0].AxisX.LabelStyle.Interval = (ext[1] - ext[0]) / x_grids;
+            chart.ChartAreas[0].AxisX.MajorTickMark.Interval = (ext[1] - ext[0]) / x_grids;
 
             chart.Legends.Clear();
             for (int j = 0; j < nLines; j++)
